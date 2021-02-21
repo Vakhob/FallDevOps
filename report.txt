@@ -1,1 +1,2 @@
 testing reset command
+ I am adding this line to test reset hard
